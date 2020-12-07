@@ -1,0 +1,36 @@
+package operacoes;
+import java.util.Scanner;
+
+public class Operacoes {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	double num1, num2, adic, sub, div, mult; // atribuição de variáveis
+	
+	Scanner leitor = new Scanner(System.in); // leitor de dados
+	System.out.println("programa de calculo matemático de dois números");
+	System.out.println("digite o primeiro numero");
+	num1 = leitor.nextDouble();// variável recebe o valor digitado
+	System.out.println("digite o segundo numero");
+	num2 = leitor.nextDouble(); // variável recebe o valor digitado
+	
+	// Operações matemáticas
+	
+	adic = num1 + num2;
+	sub = num1 - num2;
+	div = num1 / num2;
+	mult = num1 * num2;
+	
+	// impressão da informação na tela
+	
+	System.out.println(" soma dos numeros: "+ adic );
+	System.out.println(" subritração dos numeros: "+ sub );
+	System.out.println(" divisão dos numeros: "+ div );
+	System.out.println(" multiplicação dos numeros: "+ mult );
+	
+	
+	
+
+	}
+
+}

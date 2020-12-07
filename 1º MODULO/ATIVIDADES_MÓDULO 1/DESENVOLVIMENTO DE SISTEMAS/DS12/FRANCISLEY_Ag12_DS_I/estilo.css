@@ -1,0 +1,74 @@
+body{
+    background-color: #373538;
+    }
+    .principal {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    }
+    .Pre_Casamento, .Dia_da_Noiva, .Cerimônia,.Festa, .Lua_de_mel{
+    align-items: center;
+    margin: 1%;
+    }
+    .Pre_Casamento{
+    flex-grow: 1;
+    }
+    .Dia_da_Noiva{
+        flex-grow: 1;
+}
+.Cerimônia{
+flex-grow: 1;
+}
+img{
+width: 100%;
+margin: 1.5%;
+}
+
+.Festa{
+    flex-grow: 1;
+    }
+    img{
+    width: 100%;
+    margin: 1.5%;
+    }
+
+    .Lua_de_mel{
+        flex-grow: 1;
+        }
+        img{
+        width: 100%;
+        margin: 1.5%;
+        }
+
+        .Pre_Casamento{
+            flex-grow: 1;
+            }
+            img{
+            width: 10%;
+            margin: 1%;
+            }
+            .Cerimônia{
+                flex-grow: 1;
+                }
+                img{
+                width: 100%;
+                margin: 1.5%;
+                }
+
+
+
+h1{
+text-align:center;
+color: rgba(255, 215, 0, 0.739);
+font-size: 4.5em;
+}
+h2{
+    text-align:center;
+    color: rgb(72, 151, 165);
+    font-size: 1.5em;
+    }
+
+
+a:link, a:visited{
+color: #fff;
+}

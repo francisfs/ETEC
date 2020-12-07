@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Meus sites favoritos
+</title>
+
+</head>
+<h1>Meus sites favoritos: Francisley Fernandes </h1>
+<body>
+Meus sites favoritos de acessos frequentes estão organizados por categoria de Entretenimento, Estudos e Trabalho.</br></br>
+
+
+</body>
+Seguem abaixo a classificação por categoria:</br>
+
+<br>- Sites de Entretenimento</br>
+
+<br>- Sites de Estudo<br>
+
+<br>- Sites de Trabalho<br>
+</html>
+
+
